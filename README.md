@@ -10,10 +10,10 @@ load), or the motors are powered by the fuel cell as well as the battery (high l
 
 This robotic platform uses Mecanum wheels as a drive system. Mecanum wheels allow a vehicle 
 to drive in any direction without requiring a classical steering assembly. The wheels consist of 
-freely spinning rollers acting as wheel treads that are oriented at 45° relative to the axis. They work 
+freely spinning rollers acting as wheel treads that are oriented at 45° relative to the wheel's axis. They work 
 by selectively adjusting the rotation speed and direction for all four wheels, and therefore, require 
 independent motors and drive trains for each wheel.  
 
 This repository contains detailed data and information on the project, such as its user manual, 
-datasheets of its components, files for custom PCBs, and code for the microcontrollers used in this 
-project.
+datasheets of the included components, CAD files of the printed parts, Gerber files of PCBs, and code for 
+the microcontrollers used in this project.
