@@ -6,7 +6,7 @@ HydroBot is a demonstrator platform for fuel cell electric vehicles. The aim of 
 to develop a remote-controlled robot that is powered by a hydrogen fuel cell. The power supply 
 system was designed analogously to fuel cell cars, with a fuel cell stack and a battery as a 
 combined power supply system. The robotic platform uses Mecanum wheels as a drive system, which 
-allows it to drive in any direction without requiring a classical steering assembly. 
+allows it to drive in any direction without requiring a classical steering assembly. These videos show [the driving capabilities of its Mecanum wheels](https://youtu.be/N9AgIsOAKsk), [the operation of the fuel cell](https://youtu.be/g3sNNf1apEY), and [an overview of all the components in the CAD model](https://youtu.be/ZYQn9y09kZA).
 
 HydroBot was developed by the [Helmholtz-Institute Erlangen-Nürnberg for Renewable Energies (HI ERN)](https://www.hi-ern.de/en) 
 to showcase an application of fuel cells. The idea of the project was to manufacture a prototype 
