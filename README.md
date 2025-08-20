@@ -1,19 +1,29 @@
 # HydroBot
 
-HydroBot is a demonstrator platform for fuel cell electric vehicles. It is a remote-controlled robot 
-that is primarily powered by a 12.8 V LiFePO4 battery. Additionally, it is equipped with a 60 W fuel 
-cell stack and can carry up to 8 g of hydrogen in eight metal-hydride cartridges. The fuel cell is 
-used to charge the battery while the robot is operating, which shows the power system of a fuel 
-cell electric vehicle: An electric motor is powered from a fuel cell with a buffer battery. Depending 
-on the load conditions, the fuel cell directly powers the motors and charges the battery (idle/low 
-load), or the motors are powered by the fuel cell as well as the battery (high load). 
+![HydroBot outside](https://github.com/user-attachments/assets/3f0d2b8a-46a0-4a26-abac-d1730e54d069)
 
-This robotic platform uses Mecanum wheels as a drive system. Mecanum wheels allow a vehicle 
-to drive in any direction without requiring a classical steering assembly. The wheels consist of 
-freely spinning rollers acting as wheel treads that are oriented at 45° relative to the wheel's axis. They work 
-by selectively adjusting the rotation speed and direction for all four wheels, and therefore, require 
-independent motors and drive trains for each wheel.  
+HydroBot is a demonstrator platform for fuel cell electric vehicles. The aim of the project was 
+to develop a remote-controlled robot that is powered by a hydrogen fuel cell. The power supply 
+system was designed analogously to fuel cell cars, with a fuel cell stack and a battery as a 
+combined power supply system. The robotic platform uses Mecanum wheels as a drive system, which 
+allows it to drive in any direction without requiring a classical steering assembly. 
+
+HydroBot was developed by the [Helmholtz-Institute Erlangen-Nürnberg for Renewable Energies (HI ERN)](https://www.hi-ern.de/en) 
+to showcase an application of fuel cells. The idea of the project was to manufacture a prototype 
+suitable as a demonstrator for fairs, and to get a glimpse into system integration, which is not 
+part of the core competencies of the department that developed HydroBot.
+
+---
 
 This repository contains detailed data and information on the project, such as its user manual, 
 datasheets of the included components, CAD files of the printed parts, Gerber files of PCBs, and code for 
 the microcontrollers used in this project.
+
+---
+
+**Contributors:** HydroBot was developed by the [Electrocatalytic Interface Engineering Research Department](https://www.hi-ern.de/en/research/electrocatalytic-interface-engineering-1) 
+of the Helmholtz-Institute Erlangen-Nürnberg for Renewable Energies, which is part of Forschungszentrum 
+Jülich in Germany. Members of the project team are (in alphabetical order) Dr. Thomas Böhm, 
+Anna T. S. Freiberg, Carina Götz, Adrian Hartert, Christoph Hübner, Hye Jin Lee, Marco Martini, 
+Julian Mitrovic, Rohit Rajendran Menon, Nico Roubicek, Prof. Dr. Simon Thiele, and Anja Tröster. 
+[AISLER](https://aisler.net/en) is gratefully acknowledged for sponsoring PCBs used in this project.
