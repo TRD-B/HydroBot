@@ -2,7 +2,7 @@
 
 ![HydroBot outside](https://github.com/user-attachments/assets/3f0d2b8a-46a0-4a26-abac-d1730e54d069)
 
-HydroBot is a demonstrator platform for fuel cell electric vehicles. The aim of the project was 
+[HydroBot](https://www.hi-ern.de/en/projects/hydrobot) is a demonstrator platform for fuel cell electric vehicles. The aim of the project was 
 to develop a remote-controlled robot that is powered by a hydrogen fuel cell. The power supply 
 system was designed analogously to fuel cell cars, with a fuel cell stack and a battery as a 
 combined power supply system. The robotic platform uses Mecanum wheels as a drive system, which 
