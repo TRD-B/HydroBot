@@ -10,7 +10,7 @@ allows it to drive in any direction without requiring a classical steering assem
 
 More detailed information on the project can be found in this [Instructable](https://www.instructables.com/HydroBot-a-Fuel-Cell-Powered-Robot/). These videos show [the driving capabilities of its Mecanum wheels](https://youtu.be/N9AgIsOAKsk), [the operation of the fuel cell](https://youtu.be/g3sNNf1apEY), and [an overview of all the components in the CAD model](https://youtu.be/ZYQn9y09kZA).
 
-HydroBot was developed by the [Helmholtz-Institute Erlangen-Nürnberg for Renewable Energies (HI ERN)](https://www.hi-ern.de/en) 
+HydroBot was developed by the [Helmholtz-Institute Erlangen-Nürnberg for Renewable Energy (HI ERN)](https://www.hi-ern.de/en) 
 to showcase an application of fuel cells. The idea of the project was to manufacture a prototype 
 suitable as a demonstrator for fairs, and to get a glimpse into system integration, which is not 
 part of the core competencies of the department that developed HydroBot.
@@ -24,7 +24,7 @@ the microcontrollers used in this project.
 ---
 
 **Contributors:** HydroBot was developed by the [Electrocatalytic Interface Engineering Research Department](https://www.hi-ern.de/en/research/electrocatalytic-interface-engineering-1) 
-of the Helmholtz-Institute Erlangen-Nürnberg for Renewable Energies, which is part of Forschungszentrum 
+of the Helmholtz-Institute Erlangen-Nürnberg for Renewable Energy, which is part of Forschungszentrum 
 Jülich in Germany. Members of the project team are (in alphabetical order) Dr. Thomas Böhm, 
 Anna T. S. Freiberg, Carina Götz, Adrian Hartert, Christoph Hübner, Hye Jin Lee, Marco Martini, 
 Julian Mitrovic, Rohit Rajendran Menon, Nico Roubicek, Prof. Dr. Simon Thiele, and Anja Tröster. 
